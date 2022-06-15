@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+    font-size: 15pt;
+}
+.container{
+  height: 50vh;
+  width: 50vh;
+  margin-top: 15vh;
+
+  background-color: red;
+  border: 2px solid black
+}
+img{
+  height: 50vh;
+  width: 50vh;
+}
+p{
+  border: 1px solid blue;
+  margin-top: 10vh;
+  text-align: center;
+}
